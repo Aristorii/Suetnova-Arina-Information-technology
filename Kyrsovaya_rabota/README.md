@@ -16,13 +16,13 @@
 |---|---|
 | Сайт на Vercel | https://tz-12-konditerskaya-saharnyy-ceh.vercel.app |
 | Таблица заявок | https://docs.google.com/spreadsheets/d/1DOBYjb0NQLYJfS_Y7XwncTWQpdZttf65RAA32RalpPI/edit |
-| Дашборд DataLens | [вставь ссылку на дашборд] |
-| Instagram и Reel с автоответом | [вставь ссылку на Reel] |
-| ВКонтакте · Telegram · YouTube | [вставь] · [вставь] · [вставь] |
+| Дашборд DataLens | https://datalens.ru/bkqfrekoywfcu-saharnyy-ceh |
+| Instagram и Reel с автоответом | https://www.instagram.com/p/DffKReXslEp/ |
+| ВКонтакте · Telegram · YouTube | https://...utm_source=instagram... · https://...utm_source=telegram... · https://...utm_source=youtube... |
 | Описание работы | [docs/opisanie.md](docs/opisanie.md) |
 | Презентация к защите | [presentation/zashchita.pdf](presentation/zashchita.pdf) |
 
-Ресурс GA4: `G-[вставь ID]`. Доступ Viewer к ресурсу GA4 выдан: [e-mail Заказчика] (e-mail Заказчика).
+Ресурс GA4: `G-5FS35RKVFQ`. Доступ Viewer к ресурсу GA4 выдан: e-mail Заказчика (Пестов Артём Валерьевич, `manager@sugar-ceh.example`).
 
 ## Что сделано
 
