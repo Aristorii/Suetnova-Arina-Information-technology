@@ -2,7 +2,7 @@
 
 | **Что** | **Ссылка** |
 |---|---|
-| Репозиторий проекта | https://github.com/Aristorii/Kyrsovaya_rabota_it |
+| Репозиторий проекта | https://github.com/Aristorii/TZ-12_Konditerskaya_Saharnyy_Ceh |
 | Сайт на Vercel | https://tz-12-konditerskaya-saharnyy-ceh.vercel.app |
 | Описание работы `docs/opisanie.md` | https://github.com/Aristorii/Kyrsovaya_rabota_it/blob/main/docs/opisanie.md |
 | Презентация `presentation/zashchita.pdf` | https://github.com/Aristorii/Kyrsovaya_rabota_it/blob/main/presentation/zashchita.pdf |
