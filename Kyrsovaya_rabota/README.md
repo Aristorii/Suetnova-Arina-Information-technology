@@ -10,19 +10,17 @@
 
 ![Схема работы](docs/scheme.png)
 
-## Ссылки
-
 | **Что** | **Ссылка** |
 |---|---|
 | Сайт на Vercel | https://tz-12-konditerskaya-saharnyy-ceh.vercel.app |
 | Таблица заявок | https://docs.google.com/spreadsheets/d/1DOBYjb0NQLYJfS_Y7XwncTWQpdZttf65RAA32RalpPI/edit |
 | Дашборд DataLens | https://datalens.ru/bkqfrekoywfcu-saharnyy-ceh |
 | Instagram и Reel с автоответом | https://www.instagram.com/p/DffKReXslEp/ |
-| ВКонтакте · Telegram · YouTube | https://...utm_source=instagram... · https://...utm_source=telegram... · https://...utm_source=youtube... |
+| ВКонтакте | https://tz-12-konditerskaya-saharnyy-ceh.vercel.app/cakes.html?utm_source=vk&utm_medium=social&utm_campaign=newyear_cakes_2026&utm_content=post_01 |
+| Telegram | https://tz-12-konditerskaya-saharnyy-ceh.vercel.app/builder.html?utm_source=telegram&utm_medium=social&utm_campaign=newyear_cakes_2026&utm_content=post_01 |
+| YouTube | https://tz-12-konditerskaya-saharnyy-ceh.vercel.app/fillings.html?utm_source=youtube&utm_medium=social&utm_campaign=newyear_cakes_2026&utm_content=shorts_cut_01 |
 | Описание работы | [docs/opisanie.md](docs/opisanie.md) |
 | Презентация к защите | [presentation/zashchita.pdf](presentation/zashchita.pdf) |
-
-Ресурс GA4: `G-5FS35RKVFQ`. Доступ Viewer к ресурсу GA4 выдан: e-mail Заказчика (Пестов Артём Валерьевич, `manager@sugar-ceh.example`).
 
 ## Что сделано
 
